@@ -8,7 +8,7 @@ build/
 # Antigravity Phase-specific Exclusions
 /docs/blogs/
 
-# Keep legacy versions locally but exclude from GitHub
+# Keep legacy versions locally but exclude from GitHub tracking
 docs/specs/01_Logic_Harness.md
 docs/specs/01_Logic_Harness_Part_A.md
 docs/specs/01_Logic_Harness_Part_A_Foundation_v3.0.md
@@ -18,8 +18,8 @@ docs/specs/01_Logic_Harness_Part_B_Architecture_v3.0.md
 docs/specs/01_Logic_Harness_v2.0_Master.md
 docs/specs/02_AI_Amnesia_Part_C_Implementation_v3.1.md
 docs/specs/02_AI_Amnesia_Part_C_Implementation_v4.0.md
-docs/specs/03_Deterministic_Guardrails_Part_A_Foundation_v3.0.md
 docs/specs/03_Deterministic_Guardrails_Part_B_Architecture_v3.0.md
+docs/specs/03_Deterministic_Guardrails_Part_A_Foundation_v3.0.md
 docs/specs/03_Deterministic_Guardrails_Part_C_Implementation_v3.0.md
 
 # Internal Agentic Tracking
