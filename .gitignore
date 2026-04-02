@@ -1,0 +1,18 @@
+# Temporary Storage and Build Artifacts
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+
+# Antigravity Phase-specific Exclusions
+/docs/blogs/
+
+# Internal Agentic Tracking
+/task.md
+/walkthrough.md
+/implementation_plan.md
+/.agent/
+/.gemini/
+/brain/
+/convert_image.py
