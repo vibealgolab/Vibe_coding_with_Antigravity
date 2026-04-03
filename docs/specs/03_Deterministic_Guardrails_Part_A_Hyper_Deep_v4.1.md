@@ -1,7 +1,5 @@
 # Section 03: Deterministic Guardrails — Vibe coding with Antigravity (Part A: Foundation v4.1_Hyper_Deep)
 
-![Advanced Security Architecture](./docs/specs/v4.1_guardrail_foundation.png)
-
 > **Series**: Vibe coding with Antigravity (Antigravity Protocol 2.0)  
 > **Status**: Hyper-Deep Technical Specification (Part A of C)  
 > **Version**: 4.1.0 (Advanced Foundation - Maximum Fidelity)  

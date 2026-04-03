@@ -1,7 +1,5 @@
 # Section 01: Logic Harness — Vibe coding with Antigravity (Part C: Implementation v4.1_Hyper_Deep)
 
-![Advanced Implementation Pipeline](./docs/specs/v4.1_logic_harness_implementation.png)
-
 > **Series**: Vibe coding with Antigravity (Antigravity Protocol 2.0)  
 > **Status**: Hyper-Deep Technical Specification (Part C: Final)  
 > **Version**: 4.1.0 (Advanced Implementation - Maximum Fidelity)  

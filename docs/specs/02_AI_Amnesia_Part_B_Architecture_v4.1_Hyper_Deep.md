@@ -1,7 +1,5 @@
 # Section 02: AI Amnesia — Vibe coding with Antigravity (Part B: Architecture v4.1_Hyper_Deep)
 
-![Distributed Memory Architecture](./docs/specs/v4.1_memory_architecture.png)
-
 > **Series**: Vibe coding with Antigravity (Antigravity Protocol 2.0)  
 > **Status**: Hyper-Deep Technical Specification (Part B of C)  
 > **Version**: 4.1.0 (Advanced Architecture - Maximum Fidelity)  
