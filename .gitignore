@@ -8,7 +8,10 @@ build/
 # Antigravity Phase-specific Exclusions
 /docs/blogs/
 
-# Keep legacy versions locally but exclude from GitHub tracking
+# Keep legacy versions locally in archive but exclude from GitHub
+docs/specs/archive/
+
+# Only track final v4.1 versions in the specs root
 docs/specs/*.md
 !docs/specs/*v4.1*.md
 !docs/specs/logic_harness_concept.webp
