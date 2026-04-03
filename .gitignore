@@ -10,7 +10,7 @@ build/
 
 # Keep legacy versions locally but exclude from GitHub tracking
 docs/specs/*.md
-!docs/specs/*_Hyper_Deep_v4.1.md
+!docs/specs/*v4.1*.md
 !docs/specs/logic_harness_concept.webp
 
 # Internal Agentic Tracking
