@@ -1,0 +1,5 @@
+docs/specs/01_Logic_Harness_Part_A_Hyper_Deep_v4.1.md
+docs/specs/01_Logic_Harness_Part_C_Hyper_Deep_v4.1.md
+docs/specs/02_AI_Amnesia_Part_A_Hyper_Deep_v4.1.md
+docs/specs/03_Deterministic_Guardrails_Part_A_Hyper_Deep_v4.1.md
+docs/specs/logic_harness_concept.webp
